@@ -1,2 +1,2 @@
-# mrmixsun.github.io
-HR-marketing agensy blog (Ghost on Github Pages)
+# Blog
+Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
